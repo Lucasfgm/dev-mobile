@@ -116,17 +116,14 @@ class _MyHomePageState extends State<MyHomePage> {
               leading: Icon(Icons.home),
               title: Text('Página Inicial'),
               onTap: () {
-                // Ação ao selecionar 'Página Inicial'
               },
             ),
             ListTile(
               leading: Icon(Icons.settings),
               title: Text('Configurações'),
               onTap: () {
-                // Ação ao selecionar 'Configurações'
               },
             ),
-            // Adicione mais itens aqui conforme necessário
           ],
         ),
       ),
